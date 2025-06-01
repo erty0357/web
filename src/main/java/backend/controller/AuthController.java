@@ -17,7 +17,7 @@ import java.util.Optional;
 @CrossOrigin(origins = {
     "http://localhost:5173",
     "https://web-vx1u.onrender.com",
-    "https://yuclub-mxyqm30vm-kim-sang-hyuns-projects.vercel.app"
+    "https://yuclub.vercel.app",
 })
 public class AuthController {
 
