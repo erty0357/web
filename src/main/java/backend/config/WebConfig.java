@@ -10,7 +10,7 @@ public class WebConfig implements WebMvcConfigurer {
     public void addCorsMappings(CorsRegistry registry) {
         registry.addMapping("/**")
                 .allowedOrigins(
-                        "http://localhost:5173", 
+                        "http://localhost:5173",              
                         "https://web-vx1u.onrender.com", 
                         "https://yuclub-git-main-kim-sang-hyuns-projects.vercel.app",
                         "https://yuclub-fc6vf11ge-kim-sang-hyuns-projects.vercel.app"
