@@ -18,7 +18,7 @@ import java.util.Optional;
     "http://localhost:5173",
     "https://web-vx1u.onrender.com",
     "https://yuclub.vercel.app",
-    "https://yuclub-rd7tmcffw-kim-sang-hyuns-projects.vercel.app", // ✅ 이거 추가!
+    "https://yuclub-a79adsc8d-kim-sang-hyuns-projects.vercel.app",
     "https://yuclub-git-main-kim-sang-hyuns-projects.vercel.app"
 })
 public class AuthController {
