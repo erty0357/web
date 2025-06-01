@@ -14,6 +14,11 @@ import java.util.Optional;
 @RestController
 @RequestMapping("/api")
 @RequiredArgsConstructor
+@CrossOrigin(origins = {
+    "http://localhost:5173",
+    "https://web-vx1u.onrender.com",
+    "https://yuclub-mxyqm30vm-kim-sang-hyuns-projects.vercel.app"
+})
 public class AuthController {
 
     private final UserRepository userRepository;
