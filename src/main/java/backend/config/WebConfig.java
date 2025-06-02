@@ -13,7 +13,7 @@ public class WebConfig implements WebMvcConfigurer {
                         "http://localhost:5173",              
                         "https://web-vx1u.onrender.com", 
                         "https://yuclub-git-main-kim-sang-hyuns-projects.vercel.app",
-                        "hhttps://yuclub-p67rpi0sp-kim-sang-hyuns-projects.vercel.app/"
+                        "hhttps://yuclub-p67rpi0sp-kim-sang-hyuns-projects.vercel.app"
                 )
                 .allowedMethods("*")
                 .allowedHeaders("*");
