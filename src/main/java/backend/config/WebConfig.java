@@ -12,6 +12,7 @@ public class WebConfig implements WebMvcConfigurer {
                 .allowedOrigins(
                         "http://localhost:5173",              
                         "https://web-vx1u.onrender.com", 
+                        "https://yuclub.vercel.app",
                         "https://yuclub-git-main-kim-sang-hyuns-projects.vercel.app",
                         "https://yuclub-e4lohltyo-kim-sang-hyuns-projects.vercel.app"
                 )
